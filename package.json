@@ -1,0 +1,24 @@
+{
+  "name": "mimilau.github.io",
+  "version": "1.0.0",
+  "description": "My Blog on github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MimiLau/mimilau.github.io.git"
+  },
+  "author": "Mimi Lau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MimiLau/mimilau.github.io/issues"
+  },
+  "homepage": "https://github.com/MimiLau/mimilau.github.io#readme",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-jade-tasks": "0.0.0"
+  }
+}
