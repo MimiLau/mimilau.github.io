@@ -66,6 +66,10 @@ pre {
 	width: 900px;
 }
 
+.footer {
+	margin-top: 30px;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;

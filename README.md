@@ -1,4 +1,4 @@
-[mimilau.github.io](mimilau.github.io)
+[http://mimilau.github.io/](mimilau.github.io)
 **In experimental Stage**
 
 ## Run Jekyll Locally
