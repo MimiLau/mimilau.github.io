@@ -14,14 +14,57 @@
   float: right; }*/
 
 /* Jekyll Bootstrap Colors */
+body {
+	font-size: 14px;
+}
+
 h1, h2, h3, h4 {
-  color: #f22430;
-}
-#footer {
-  background-color: #fdcd60;
+  color: #333;
 }
 
+a {
+	color: #cdb999;
+}
 
+a:focus, a:hover {
+	color: #8a6d3b;
+}
+
+pre {
+	padding: 1rem;
+	background-color: #f7f7f9;
+	border-radius: .25rem;
+}
+
+.teaser {
+	height: 450px;
+	position: relative;
+	background-color: #000;
+	margin-bottom: 90px;
+}
+
+.teaser__image {
+	background-image: url(/assets/themes/css/images/background_image.jpg);
+	opacity: 1;
+	background-size: cover;
+	background-position: center bottom;
+	height: 100%;
+}
+
+.author-image {
+	position: absolute;
+	bottom: -80px;
+	left: calc(50% - 80px);
+}
+
+.author-image img {
+	width: 160px;
+	border: 4px solid white;
+}
+
+.container {
+	width: 900px;
+}
 
 /* posts index */
 .post > h3.title {

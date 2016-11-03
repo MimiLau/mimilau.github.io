@@ -1,4 +1,7 @@
-# Run Jekyll Locally
+[mimilau.github.io](mimilau.github.io)
+**In experimental Stage**
+
+## Run Jekyll Locally
 
 ```
 gem install jekyll
@@ -8,12 +11,12 @@ cd to the working folder, then
 jekyll serve
 ```
 
-# Create a Post
+## Create a Post
 ```
 rake post title="Hello World"
 ```
 
-# Create a Page
+## Create a Page
 ```
 rake page name="about.md"
 ```
@@ -27,10 +30,10 @@ rake page name="pages/about"
 # this will create the file: ./pages/about/index.html
 ```
 
-## Usage
+### Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-## License
+### License
 
 [MIT](http://opensource.org/licenses/MIT)
