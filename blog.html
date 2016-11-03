@@ -1,0 +1,26 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+{% for post in site.posts %}
+    {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if post.category == "blog" %}
+        {% if currentyear != year %}
+            {% unless forloop.first %}
+            </ul>
+            {% endunless %}
+            <h3 class="post-archive-year">{{ currentyear }}</h3>
+            <ul class="post-archive">
+            {% capture year %}{{ currentyear }}{% endcapture %}
+        {% endif %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
+                {{ post.title }}
+            </a>
+        </li>
+    {% endif %}
+
+{% endfor %}

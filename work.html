@@ -1,0 +1,31 @@
+---
+layout: page
+title: Works
+permalink: /work/
+---
+
+{% for post in site.posts %}
+    {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+
+    {% if post.category == "work" %}
+        {% if currentyear != year %}
+            {% unless forloop.first %}
+            </ul>
+            {% endunless %}
+            <h3 class="post-archive-year">{{ currentyear }}</h3>
+            <ul class="post-list">
+            {% capture year %}{{ currentyear }}{% endcapture %}
+        {% endif %}
+        <li>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+                <div class="post-list-info">
+                    <h2 class="post-list-title">{{ post.title }}</h2>
+                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+                </div>
+            </a>
+
+            <img src="{{ post.thumb }}" class="post-list-thumb" />
+        </li>
+    {% endif %}
+
+{% endfor %}

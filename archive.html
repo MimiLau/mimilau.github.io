@@ -1,10 +1,22 @@
 ---
 layout: page
-title : Archive
-header : Post Archive
-group: navigation
+title: Archive
+permalink: /archive/
 ---
-{% include JB/setup %}
 
-{% assign posts_collate = site.posts %}
-{% include JB/posts_collate %}
+{% for post in site.posts %}
+    {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
+    {% if currentyear != year %}
+        {% unless forloop.first %}
+        </ul>
+        {% endunless %}
+        <h3 class="post-archive-year">{{ currentyear }}</h3>
+        <ul class="post-archive">
+        {% capture year %}{{ currentyear }}{% endcapture %}
+    {% endif %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
+            {{ post.title }}
+        </a>
+    </li>
+{% endfor %}

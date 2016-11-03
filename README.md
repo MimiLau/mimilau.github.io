@@ -1,4 +1,5 @@
 [http://mimilau.github.io/](mimilau.github.io)
+
 **In experimental Stage**
 
 ## Run Jekyll Locally
@@ -33,6 +34,7 @@ rake page name="pages/about"
 ### Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
+Theme support: [Travelogue](https://github.com/SalGnt/Travelogue)
 
 ### License
 

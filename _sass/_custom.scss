@@ -1,0 +1,34 @@
+/* ==========================================================================
+   CUSTOM
+   ========================================================================== */
+
+/**
+ * Header
+ */
+
+ .teaser {
+ 	height: 450px;
+ 	position: relative;
+ 	background-color: $grey-color;
+ 	margin-bottom: 90px;
+ }
+
+ .teaser__image {
+ 	background-image: url(/assets/images/background_image.jpg);
+ 	opacity: 1;
+ 	background-size: cover;
+ 	background-position: center bottom;
+ 	height: 100%;
+ }
+
+ .author-image {
+ 	position: absolute;
+ 	bottom: -80px;
+ 	left: calc(50% - 80px);
+
+	img {
+	 	width: 160px;
+	 	border: 4px solid white;
+		border-radius: 50%;
+	}
+ }
