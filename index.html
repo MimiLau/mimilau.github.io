@@ -4,7 +4,10 @@ home: true
 ---
 
 <div class="home">
-    <ul class="post-list">
+		<div class="text-xs-center mb-3">
+			<h1>{{ site.author.name }}</h1>
+		</div>
+		<ul class="post-list">
         {% if site.pagination %}
         {% assign source = paginator.posts %}
         {% else %}

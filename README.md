@@ -1,4 +1,4 @@
-[http://mimilau.github.io/](mimilau.github.io)
+[mimilau.github.io](http://mimilau.github.io)
 
 **In experimental Stage**
 
@@ -34,6 +34,7 @@ rake page name="pages/about"
 ### Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
+
 Theme support: [Travelogue](https://github.com/SalGnt/Travelogue)
 
 ### License

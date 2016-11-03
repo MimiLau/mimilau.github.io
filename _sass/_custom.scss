@@ -8,9 +8,9 @@
 
  .teaser {
  	height: 450px;
- 	position: relative;
- 	background-color: $grey-color;
  	margin-bottom: 90px;
+ 	position: relative;
+ 	background-color: $background-color;
  }
 
  .teaser__image {
@@ -19,6 +19,7 @@
  	background-size: cover;
  	background-position: center bottom;
  	height: 100%;
+  background-repeat: no-repeat;
  }
 
  .author-image {

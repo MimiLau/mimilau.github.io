@@ -41,9 +41,11 @@ type: post
         {% if page.show_categories %}
         <div class="meta">
             <h3 class="meta-title">Categories</h3>
-            <span class="meta-content">
+						<span class="meta-content">
                 {% for category in page.categories %}
-                    {{ category | capitalize }}&nbsp;
+                    <a href="/{{ category }}">
+											{{ category | capitalize }}&nbsp;
+										</a>
                 {% endfor %}
             </span>
         </div>
