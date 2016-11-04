@@ -48,3 +48,17 @@ background-repeat: no-repeat;
 		margin: 0 7px;
 	}
 }
+
+pre, code{
+  background-color: #f7f7f9;
+	overflow-x: auto;
+	border-radius: .25rem;
+}
+
+blockquote {
+	background: #fdfbec;
+}
+
+.post-list>li:last-child {
+  margin-bottom: 40px;
+}

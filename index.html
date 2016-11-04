@@ -3,9 +3,10 @@ layout: default
 home: true
 ---
 
-<div class="home">
-		<div class="text-xs-center mb-3">
+<div class="home text-xs-center">
+		<div class="mb-3 pb-2">
 			<h1>{{ site.author.name }}</h1>
+			<p>I am a Web Designer/Developer.</p>
 			<ul class="inline-list">
 				<li>
 					<a href="https://www.facebook.com/mimimimi.lau" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
@@ -20,33 +21,46 @@ home: true
 					<a href="https://www.instagram.com/mimi_lau" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i><span class="sr-only">Instagram</span></a>
 				</li>
 			</ul>
+			<p><a href="/about">More about me</a></p>
 		</div>
-		<ul class="post-list">
-        {% if site.pagination %}
-        {% assign source = paginator.posts %}
-        {% else %}
-        {% assign source = site.posts %}
-        {% endif %}
 
-        {% for post in source %}
-        <li>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
-                <div class="post-list-info">
-                    <h2 class="post-list-title">{{ post.title }}</h2>
-                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-                </div>
-            </a>
+		<div class="mb-3">
+			<!-- <ul class="post-archive">
+				{% for post in site.posts %}
+				{% if post.category == "blog" %}
+						<li>
+								<a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
+										{{ post.title }}
+								</a>
+						</li>
+				{% endif %}
+				{% endfor %}
+			</ul> -->
 
-            <img src="{{ post.thumb }}" class="post-list-thumb" />
-        </li>
-        {% endfor %}
-    </ul>
+			<h1>Some works</h1>
+			<ul class="post-list">
+	        {% if site.pagination %}
+	        	{% assign source = paginator.posts %}
+	        {% else %}
+	        	{% assign source = site.posts %}
+	        {% endif %}
 
-    <!-- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p> -->
-    <!-- <p class="rss-subscribe">
-        <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
-            Subscribe via RSS
-            <i class="icon ion-social-rss"></i>
-        </a>
-    </p> -->
+	        {% for post in source limit:3 %}
+						{% if post.category == "work"%}
+		        <li>
+		            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+		                <div class="post-list-info">
+		                    <h2 class="post-list-title">{{ post.title }}</h2>
+		                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+		                </div>
+		            </a>
+
+		            <img src="{{ post.thumb }}" class="post-list-thumb" />
+		        </li>
+						{% endif %}
+	        {% endfor %}
+	    </ul>
+			<p><a href="/work">More works</a></p>
+		</div>
+
 </div>

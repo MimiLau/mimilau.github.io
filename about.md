@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
+Hi! I'm Mimi from Hong Kong.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
+I have a background in web development and experience of successfully designing a websites layout, usability and appearance.
 
-## Getting Started
-The theme provides a `complete` Jekyll setup. Download it and start the Jekyll server.
+Over the last few years, I’ve had the opportunity of working in web design companies, marketing consultancy,  media company and Startup, this has given me extensive web designing knowledge and technical skills.
 
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
+I also possess excellent communication skills and am comfortable working on projects as part of a team or individually.
 
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+I know most of the languages for web designing, eg. PHP, HTML5, CSS3, Javascript, Jquery, Bootstrap, SQL . I am very familiar with the open source CMS program WordPress. Over the past few years, I have been "working with" WordPress and Google very closely.
+
+![Technical Skills](/assets/images/technical-skills.png)
+
+## What they say about me
+A comment from design team supervisor in my internship // 2009:
+
+> Mimi did an excellent job in this position and was asset to our organization during her tenure with the office. She can work independently, eager to seize any learning opportunities and is able to follow through to ensure that the job gets done.
+
+A comment from web design manager in my first job after graduation // 2012:
+
+> I was impressed by Mimi's ability to complete works assigned to her with proficient skills, she was enthusiastic about learning new trend and skills, and she was often willing to share the knowledge with her colleagues in the past.
+
+If you want to know more about me, I would be keen to discuss my suitability for the post in more detail face to face.
+
+## Contact Me
+```
+Tel : +852 9823 4304
+Email : meiyanlau98234304@gmail.com
+```
