@@ -103,12 +103,8 @@ a {
 
     @include transition($transition-base);
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
-
     &:hover {
-        color: $grey-color;
+        color: darken($brand-color, 15%);
     }
 }
 

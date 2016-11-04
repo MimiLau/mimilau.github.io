@@ -4,13 +4,15 @@
 
 .sb-toggle-left {
     height: 54px;
-    left: $spacing-unit / 2;
+    left: $spacing-unit / 3;
     position: fixed;
     text-indent: 100%;
-    top: $spacing-unit / 2;
+    top: $spacing-unit / 3;
     white-space: nowrap;
     width: 54px;
     z-index: 1;
+		background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 3px;
 
     @include media-query($on-laptop) {
         position: absolute;

@@ -9,7 +9,7 @@ Travelogue is a minimal, single-column Jekyll theme that provides an immersive r
 ![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
 
 ## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+The theme provides a `complete` Jekyll setup. Download it and start the Jekyll server.
 
     git clone https://github.com/SalGnt/Travelogue.git
     cd Travelogue
