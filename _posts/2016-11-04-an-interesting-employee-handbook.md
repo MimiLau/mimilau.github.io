@@ -5,7 +5,7 @@ date: 2016-11-04
 backgrounds:
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/vanilla.jpeg
     - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/morning.jpeg
-thumb: /assets/images/valve.png
+thumb: /assets/images/thumb/valve.png
 category: blog
 tags: office culture startup book
 ---
