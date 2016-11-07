@@ -3,7 +3,7 @@ layout: post
 title: "Aftership Secure Web Portal "
 date: 2016-09-03
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+    - /assets/images/backgrounds/desk.jpeg
 thumb: /assets/images/thumb/secure.png
 category: work
 tags: react redux secure api revamp

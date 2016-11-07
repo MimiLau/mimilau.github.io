@@ -3,7 +3,7 @@ layout: post
 title: "Aftership WWW revamp"
 date: 2016-04-20
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/desk.jpeg
+    - /assets/images/backgrounds/desk.jpeg
 thumb: /assets/images/thumb/www-revamp.jpg
 category: work
 tags: jade grunt html5 css3 revamp

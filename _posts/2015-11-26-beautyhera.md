@@ -3,7 +3,7 @@ layout: post
 title: "Beautyhera"
 date: 2015-11-26
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - /assets/images/backgrounds/code-screen.jpg
 thumb: /assets/images/thumb/beautyhera.png
 category: work
 tags: beauty salon wordpress

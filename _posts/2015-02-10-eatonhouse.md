@@ -3,7 +3,7 @@ layout: post
 title: "Eatonhouse"
 date: 2015-02-10
 backgrounds:
-    - https://dl.dropboxusercontent.com/u/18322837/cdn/Streetwill/code-screen.jpg
+    - /assets/images/backgrounds/code-screen.jpg
 thumb: /assets/images/thumb/eaton.png
 category: work
 tags: service apartment wordpress
