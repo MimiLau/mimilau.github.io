@@ -11,6 +11,8 @@ tags: beauty salon wordpress
 
 This site is CMS driven.
 
+Custom designed and built WordPress theme for Wedding Photography and one-stop service.
+
 ![beautyhera revamp](/assets/images/blog/beautyhera-home.png)
 
 [Visit Live Site](http://www.aftership.com)
