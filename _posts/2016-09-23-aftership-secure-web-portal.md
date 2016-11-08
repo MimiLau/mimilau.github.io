@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Aftership Secure Web Portal "
-date: 2016-09-03
+date: 2016-09-23
 backgrounds:
     - /assets/images/backgrounds/desk.jpeg
 thumb: /assets/images/thumb/secure.png
@@ -15,13 +15,15 @@ By using `Webpack`, it replaced `grunt` because it can build and bundle CSS, pre
 
 I worked on this inspiring projects as a Front-end Developer in teams with UX/UI Designers & Backend Developers. The backend provided us with the restful APIs to queriers.
 
-This large project runs Agile SCRUM. Every one or two week we have a sprint planning with roadmap outlined by PM, we estimate the story point of tasks and assign them to team members. This management methodology let us work efficiently between teams, and delivered features more focus.
+This large project runs Agile SCRUM. Every one or two week we have a sprint planning with roadmap outlined by PM, we estimate the story point of tasks and assign them to team members. This management methodology let us work efficiently between teams, and deliver features more focused.
 
 ![secure revamp](/assets/images/blog/secure-dashboard-page.png)
 
 [An article about Announcing New Design & Branded Tracking Page](https://blog.aftership.com/introducing-new-aftership-design/)
 
 [Visit Live Site](http://secure.aftership.com)
+
+Feel free to signup and try the app, it's free :)
 
 ## Released
 Sept 2016
