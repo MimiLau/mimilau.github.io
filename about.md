@@ -19,6 +19,7 @@ When the time I worked in [Aftership](https://www.aftership/com), my front-end b
 ![Technical Skills](/assets/images/technical-skills.png)
 
 ## What they say about me
+
 A comment from design team supervisor in my internship // 2009:
 
 > Mimi did an excellent job in this position and was asset to our organization during her tenure with the office. She can work independently, eager to seize any learning opportunities and is able to follow through to ensure that the job gets done.
@@ -27,7 +28,6 @@ A comment from web design manager in my first job after graduation // 2012:
 
 > I was impressed by Mimi's ability to complete works assigned to her with proficient skills, she was enthusiastic about learning new trend and skills, and she was often willing to share the knowledge with her colleagues in the past.
 
-If you want to know more about me, I would be keen to discuss my suitability for the post in more detail face to face.
 
 ## Contact Me
 ```
