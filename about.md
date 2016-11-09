@@ -14,15 +14,9 @@ Over the last few years, I’ve had the opportunity of working in web design com
 
 I know most of the languages for web designing, eg. `PHP`, `HTML5`, `CSS3`, `Javascript`, `JQuery`, `Bootstrap`, `SQL`, etc. In my past experience as a freelancer and working for agencies, I mostly created responsive websites with the open source CMS program `WordPress`, as well as knowing how to efficiently project manage and work with clients and colleagues successfully.
 
-When the time I worked in [Aftership](https://www.aftership/com), my front-end build process involves the use of tools such as Sass, Grunt and NPM to speed up development.
+When the time I worked in [Aftership](https://www.aftership/com), my front-end build process involves the popular frameworks like Bootstrap, Nodejs, and the use of tools such as Sass, Grunt and NPM to speed up development. And know my way around version management and working in SCRUM teams.
 
 ![Technical Skills](/assets/images/technical-skills.png)
-
-I mostly work directly for and with other designers/agencies to translate their creative work into responsive HTML/CSS templates or fully functional WordPress themes.
-
-I work with Adobe, SASS, Sketch, HTML5/CSS3 & Javascript. I have a working knowledge of popular frameworks like Bootstrap, Nodejs and know my way around version management and working in SCRUM teams.
-
-As of Nov 4st 2016 I’m available for short & longer term opportunities.
 
 ## What they say about me
 A comment from design team supervisor in my internship // 2009:
