@@ -11,6 +11,8 @@ tags: medicine website Wordpress
 
 This site is CMS driven.
 
+Custom designed and built WordPress theme for Wedding Photography and one-stop service.
+
 ![Mythecobal](/assets/images/blog/methycobal-home.png)
 
 [Visit Live Site](http://methycobal.hk/)

@@ -18,6 +18,12 @@ When the time I worked in [Aftership](https://www.aftership/com), my front-end b
 
 ![Technical Skills](/assets/images/technical-skills.png)
 
+I mostly work directly for and with other designers/agencies to translate their creative work into responsive HTML/CSS templates or fully functional WordPress themes.
+
+I work with Adobe, SASS, Sketch, HTML5/CSS3 & Javascript. I have a working knowledge of popular frameworks like Bootstrap, Nodejs and know my way around version management and working in SCRUM teams.
+
+As of Nov 4st 2016 I’m available for short & longer term opportunities.
+
 ## What they say about me
 A comment from design team supervisor in my internship // 2009:
 
