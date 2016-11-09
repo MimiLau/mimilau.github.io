@@ -6,13 +6,15 @@ permalink: /about/
 
 Hi! I'm Mimi from Hong Kong.
 
-I have a background in web development and experience of successfully designing a websites layout, usability and appearance.
+I have a background in web development, with practical experience of successful designed websites layout, usability and appearance.
 
-Over the last few years, I’ve had the opportunity of working in web design companies, marketing consultancy,  media company and Startup, this has given me extensive web designing knowledge and technical skills.
+Over the last few years, I’ve had the opportunity of working in web design company, marketing consultancy,  media company and Startup, this has given me extensive web designing knowledge and technical skills, along with excellent communication skills.
 
-I also possess excellent communication skills and am comfortable working on projects as part of a team or individually.
+## Skills
 
-I know most of the languages for web designing, eg. PHP, HTML5, CSS3, Javascript, Jquery, Bootstrap, SQL . I am very familiar with the open source CMS program WordPress. Over the past few years, I have been "working with" WordPress and Google very closely.
+I know most of the languages for web designing, eg. `PHP`, `HTML5`, `CSS3`, `Javascript`, `JQuery`, `Bootstrap`, `SQL`, etc. In my past experience as a freelancer and working for agencies, I mostly created responsive websites with the open source CMS program `WordPress`, as well as knowing how to efficiently project manage and work with clients and colleagues successfully.
+
+When the time I worked in [Aftership](https://www.aftership/com), my front-end build process involves the use of tools such as Sass, Grunt and NPM to speed up development.
 
 ![Technical Skills](/assets/images/technical-skills.png)
 
