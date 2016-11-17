@@ -9,9 +9,7 @@ category: work
 tags: medicine website Wordpress
 ---
 
-This site is CMS driven.
-
-Custom designed and built WordPress theme for Wedding Photography and one-stop service.
+This site is CMS driven. I made use of the Wordpress theme and do customization base on the cooperate color.
 
 ![Mythecobal](/assets/images/blog/methycobal-home.png)
 

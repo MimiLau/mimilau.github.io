@@ -9,7 +9,9 @@ category: work
 tags: service apartment wordpress
 ---
 
-This site is CMS driven.
+This site is CMS driven. I made use of the Wordpress theme and do customization base on the cooperate color.
+
+When website is launched, I provided documentation and offer on-site support to client.
 
 ![Eatonhouse](/assets/images/blog/eaton-home.png)
 
