@@ -9,7 +9,7 @@ category: work
 tags: medicine website Wordpress
 ---
 
-This site is CMS driven. I made use of the Wordpress theme and do customization base on the cooperate color.
+This site is CMS driven. Made use of the Wordpress theme and do customization base on the cooperate color. This site also done SEO optimization.
 
 ![Mythecobal](/assets/images/blog/methycobal-home.png)
 

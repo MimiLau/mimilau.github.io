@@ -29,7 +29,7 @@ April 2016
 ## Technologies
 - Jade
 - Expressjs
-- CSS Modules (Sass)
+- CSS Modules (Bootstrap-v4)
 - Full Responsive
 - JQuery
 
