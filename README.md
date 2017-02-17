@@ -5,7 +5,8 @@
 ## Run Jekyll Locally
 
 ```
-gem install jekyll
+sudo gem install jekyll
+sudo gem install jekyll-feed jekyll-sitemap jekyll-paginate
 ```
 cd to the working folder, then
 ```
