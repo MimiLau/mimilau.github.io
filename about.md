@@ -16,8 +16,6 @@ I know most of the languages for web designing, eg. `PHP`, `HTML5`, `CSS3`, `Jav
 
 When the time I worked in Startup ([Aftership](https://www.aftership.com)), my front-end build process involves the popular frameworks like `Bootstrap`, `Nodejs`, the javascript library `React` for building user interfaces, and the use of tools such as `Sass`, `Grunt` and `NPM` to speed up development. And know my way around version management and working in `SCRUM` teams.
 
-![Technical Skills](/assets/images/technical-skills.png)
-
 ## What they say about me
 
 A comment from design team supervisor in my internship // 2009:
