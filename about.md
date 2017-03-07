@@ -28,5 +28,7 @@ A comment from web design manager in my first job after graduation // 2012:
 
 
 ## Contact Me
+```
 Tel : +852 9823 4304
 Email : meiyanlau98234304@gmail.com
+```
