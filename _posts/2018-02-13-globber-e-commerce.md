@@ -22,7 +22,7 @@ This e-commerce website mainly include
 
 ![Globber homepage](/assets/images/blog/globber-home.png)
 
-[Visit Live Site](http://australiandiamondstory.com)
+[Visit Live Site](http://34.216.140.88/)
 
 ## Released
 March 2018
