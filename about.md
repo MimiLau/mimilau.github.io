@@ -8,9 +8,9 @@ Hi! I'm Mimi from Hong Kong.
 
 Everything started from 2011, I was a web designer making HTML/CSS websites. After that I had the best year of my life for Working Holiday in Australia.
 
-In 2013 I joined to [Adams](http://www.adamshk.com/) the marketing agency working as between web designer and programmer, until then I freelance for about 8 months on my own. Building up lots of practical experience of successful designed websites layout, usability and appearance.
+In 2013 I joined to [Adams](http://www.adamshk.com) the marketing agency working as between web designer and programmer, until then I freelance for about 8 months on my own. Building up lots of practical experience of successful designed websites layout, usability and appearance.
 
-In 2016 I started to shift my skills to front-end development. My experience in the startup [Aftership](https://www.aftership.com) and [Redant](https://www.aftership.com) the digital agency has given me extensive technical skills and web designing knowledge, along with excellent communication skills.
+In 2016 I started to shift my skills to front-end development. My experience in the startup [Aftership](https://www.aftership.com) and [Red Ant](https://asia.redant.com) the digital agency has given me extensive technical skills and web designing knowledge, along with excellent communication skills.
 
 ## Skills
 

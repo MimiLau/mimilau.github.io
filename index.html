@@ -4,64 +4,67 @@ home: true
 ---
 
 <div class="home text-xs-center">
-	<div class="mb-3 pb-2">
-		<h1>{{ site.author.name }}</h1>
-		<p>Front-end Developer from Hong Kong. <br />I build clean, responsive, interactive websites by most latest technologies. This also may include integrating a CMS.</p>
-		<p>✅ <code class="highlighter-rouge">Reactjs</code>, <code class="highlighter-rouge">Nodejs</code>, Javascript, Wordpress, Prestashop, E-commerce.</p>
-		<ul class="inline-list">
-			<li>
-				<a href="https://www.facebook.com/mimimimi.lau" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
-			</li>
-			<li>
-				<a href="https://www.linkedin.com/in/mimilauprofile" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i><span class="sr-only">Linkedin</span></a>
-			</li>
-			<li>
-				<a href="https://github.com/MimiLau" target="_blank"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i><span class="sr-only">Github</span></a>
-			</li>
-			<li>
-				<a href="https://www.instagram.com/mimi_lau" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i><span class="sr-only">Instagram</span></a>
-			</li>
-		</ul>
-		<p><a href="/about">More about me</a></p>
-	</div>
+	<section>
+		<div class="mb-3 pb-2">
+			<h1>{{ site.author.name }}</h1>
+			<p>Front-end Developer from Hong Kong. <br />I build clean, responsive, interactive websites by most latest technologies. This also may include integrating a CMS.</p>
+			<p>✅ <code class="highlighter-rouge">Reactjs</code>, <code class="highlighter-rouge">Nodejs</code>, Javascript, Wordpress, Prestashop, E-commerce.</p>
+			<ul class="inline-list">
+				<li>
+					<a href="https://www.facebook.com/mimimimi.lau" target="_blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i><span class="sr-only">Facebook</span></a>
+				</li>
+				<li>
+					<a href="https://www.linkedin.com/in/mimilauprofile" target="_blank"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i><span class="sr-only">Linkedin</span></a>
+				</li>
+				<li>
+					<a href="https://github.com/MimiLau" target="_blank"><i class="fa fa-github-square fa-2x" aria-hidden="true"></i><span class="sr-only">Github</span></a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/mimi_lau" target="_blank"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i><span class="sr-only">Instagram</span></a>
+				</li>
+			</ul>
+			<p><a href="/about">More about me</a></p>
+		</div>
+	</section>
 
-	<div class="mb-3">
-		<!-- <ul class="post-archive">
-			{% for post in site.posts %}
-			{% if post.category == "blog" %}
-					<li>
-							<a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
-									{{ post.title }}
-							</a>
-					</li>
-			{% endif %}
-			{% endfor %}
-		</ul> -->
+	<section>
+		<div class="mb-3">
+			<!-- <ul class="post-archive">
+				{% for post in site.posts %}
+				{% if post.category == "blog" %}
+						<li>
+								<a href="{{ site.baseurl }}{{ post.url }}" class="post-archive-link">
+										{{ post.title }}
+								</a>
+						</li>
+				{% endif %}
+				{% endfor %}
+			</ul> -->
 
-		<h1>Some works</h1>
-		<ul class="post-list text-xs-left">
-        {% if site.pagination %}
-        	{% assign source = paginator.posts %}
-        {% else %}
-        	{% assign source = site.posts %}
-        {% endif %}
-
-        {% for post in source limit:3 %}
-					{% if post.category == "work"%}
-	        <li>
-	            <a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
-	                <div class="post-list-info">
-	                    <h2 class="post-list-title">{{ post.title }}</h2>
-	                    <span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
-	                </div>
-	            </a>
-
-	            <img src="{{ post.thumb }}" class="post-list-thumb" />
-	        </li>
+			<h1>Some works</h1>
+			<ul class="post-list text-xs-left">
+					{% if site.pagination %}
+						{% assign source = paginator.posts %}
+					{% else %}
+						{% assign source = site.posts %}
 					{% endif %}
-        {% endfor %}
-    </ul>
-		<p><a href="/work">More works</a></p>
-	</div>
 
+					{% for post in source limit:3 %}
+						{% if post.category == "work"%}
+						<li>
+								<a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
+										<div class="post-list-info">
+												<h2 class="post-list-title">{{ post.title }}</h2>
+												<span class="post-list-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
+										</div>
+								</a>
+
+								<img src="{{ post.thumb }}" class="post-list-thumb" />
+						</li>
+						{% endif %}
+					{% endfor %}
+			</ul>
+			<p><a href="/work">More works</a></p>
+		</div>
+	</section>
 </div>

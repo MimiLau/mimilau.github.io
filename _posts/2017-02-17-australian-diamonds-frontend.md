@@ -17,7 +17,7 @@ Effects are made by jquery and some javascript & css libraries like `animate.css
 
 We are going to submit this site to [AWWWARDS](http://www.awwwards.com/) and hope to see you there soon!
 
-![secure revamp](/assets/images/blog/australian-diamonds-home.png)
+![Australian Diamonds home](/assets/images/blog/australian-diamonds-home.png)
 
 [Visit Live Site](http://australiandiamondstory.com)
 
@@ -30,8 +30,8 @@ Feb 2017
 - Grunt
 - CSS Modules (Scss)
 
-![secure revamp](/assets/images/blog/australian-diamonds-page.png)
+![australian diamonds page](/assets/images/blog/australian-diamonds-page.png)
 
-![secure revamp](/assets/images/blog/australian-diamonds-source.gif)
+![australian diamonds source page](/assets/images/blog/australian-diamonds-source.gif)
 
-![secure revamp](/assets/images/blog/australian-diamonds-mobile.png)
+![saustralian diamonds mobile](/assets/images/blog/australian-diamonds-mobile.png)

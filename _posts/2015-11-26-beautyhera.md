@@ -15,7 +15,7 @@ Custom designed via AI and Photoshop, built WordPress theme in cute and elegant 
 
 ![beautyhera revamp](/assets/images/blog/beautyhera-home.png)
 
-[Visit Live Site](http://beautyhera.com.hk/)
+<!-- [Visit Live Site](http://beautyhera.com.hk/) -->
 
 ## Released
 Nov 2015
