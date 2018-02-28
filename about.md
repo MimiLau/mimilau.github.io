@@ -31,8 +31,11 @@ I adapted to `ESLint` to check for errors on javascript. The rules in use are sh
 Comment from colleagues in Red Ant // 2018:
 
 > Fast and very capable to make good work
+
 > Hands over the code in a neat way including notes - forward thinking
+
 > Detailed orientated / good sense of the aesthetic
+
 > Has a good sense of humour and brings a nice additional energy to the team. Trusts everyone in the team
 
 Comment from web design manager in my first job // 2012:
