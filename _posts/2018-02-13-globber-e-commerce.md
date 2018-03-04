@@ -25,7 +25,7 @@ This e-commerce website mainly include
 [Visit Live Site](http://34.216.140.88/)
 
 ## Released
-March 2018
+<!-- March 2018 -->Soon
 
 ## Technologies
 - Javascript, JQuery
