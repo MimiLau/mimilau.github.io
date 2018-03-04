@@ -28,14 +28,23 @@ I adapted to `ESLint` to check for errors on javascript. The rules in use are sh
 
 ## What they say about me
 
-A comment from design team supervisor in my internship // 2009:
+Comment from colleagues in Red Ant // 2018:
 
-> Mimi did an excellent job in this position and was asset to our organization during her tenure with the office. She can work independently, eager to seize any learning opportunities and is able to follow through to ensure that the job gets done.
+> Fast and very capable to make good work
 
-A comment from web design manager in my first job after graduation // 2012:
+> Hands over the code in a neat way including notes - forward thinking
+
+> Detailed orientated / good sense of the aesthetic
+
+> Has a good sense of humour and brings a nice additional energy to the team. Trusts everyone in the team
+
+Comment from web design manager in my first job // 2012:
 
 > I was impressed by Mimi's ability to complete works assigned to her with proficient skills, she was enthusiastic about learning new trend and skills, and she was often willing to share the knowledge with her colleagues in the past.
 
+Comment from design team supervisor in internship // 2009:
+
+> Mimi did an excellent job in this position and was asset to our organization during her tenure with the office. She can work independently, eager to seize any learning opportunities and is able to follow through to ensure that the job gets done.
 
 ## Contact Me
 ```
