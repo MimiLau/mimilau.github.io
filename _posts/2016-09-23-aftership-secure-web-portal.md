@@ -29,7 +29,7 @@ Feel free to signup and try the app, it's free :)
 Sept 2016
 
 ## Technologies
-- React.is
+- Reactjs
 - Redux
 - Redux-DevTools
 - CSS Modules (Sass)
