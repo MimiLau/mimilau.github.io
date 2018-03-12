@@ -6,7 +6,7 @@ backgrounds:
     - /assets/images/backgrounds/desk.jpeg
 thumb: /assets/images/thumb/tessel.png
 category: work
-tags: react javascript JSON HTML5 canvas web app
+tags: react javascript JSON HTML5 canvas web app UX/UI
 ---
 
 This is an interactive "customize your own jewellry" tool for Tessel. In the is web app, you can design your own pattern in the jewellery with different color, size, metal, finger size and other options.

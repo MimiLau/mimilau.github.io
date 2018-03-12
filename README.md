@@ -2,12 +2,15 @@
 
 **In experimental Stage**
 
-## Run Jekyll Locally
+## install Jekyll
 
 ```
 sudo gem install jekyll
 sudo gem install jekyll-feed jekyll-sitemap jekyll-paginate
 ```
+
+## Run Jekyll Locally
+
 cd to the working folder, then
 ```
 jekyll serve
