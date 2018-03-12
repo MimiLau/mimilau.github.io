@@ -19,7 +19,6 @@ This e-commerce website mainly include
 - questionaire
 - product comparison
 
-
 ![Globber homepage](/assets/images/blog/globber-home.png)
 
 [Visit Live Site](http://34.216.140.88/)
