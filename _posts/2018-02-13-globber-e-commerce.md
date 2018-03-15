@@ -29,8 +29,10 @@ This e-commerce website mainly include
 ## Technologies
 - Javascript, JQuery
 - Grunt
+- Webpack
 - CSS Modules (Scss)
 - Prestashop, PHP
+- Smarty
 
 ![Globber](/assets/images/blog/globber-PLP.png)
 
