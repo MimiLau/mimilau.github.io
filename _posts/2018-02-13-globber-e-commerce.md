@@ -21,10 +21,10 @@ This e-commerce website mainly include
 
 ![Globber homepage](/assets/images/blog/globber-home.png)
 
-[Visit Live Site](http://34.216.140.88/)
+[Visit Live Site](https://www.globber.com)
 
 ## Released
-<!-- March 2018 -->Soon
+March 2018
 
 ## Technologies
 - Javascript, JQuery
