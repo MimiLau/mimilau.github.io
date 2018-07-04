@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm Mimi from Hong Kong.
 
-Everything started from 2011, I was a web designer making HTML/CSS websites. After that I had the best year of my life for Working Holiday in Australia.
+Everything started from 2011, I was a web designer making HTML/CSS websites. After that I had the best year in my life for Working Holiday in Australia.
 
 In 2013 I joined to [Adams](http://www.adamshk.com) the marketing agency working as between web designer and programmer, until then I freelance for about 8 months on my own. Building up lots of practical experience of successful designed websites layout, usability and appearance.
 
@@ -16,7 +16,7 @@ In 2016 I started to shift my skills to front-end development. My experience in 
 
 I know most of the languages for web designing, eg. `HTML5`, `CSS3`, `Javascript`, `Bootstrap`, `SQL`, `PHP`, etc. In my past experience as a freelancer and working for agencies, I mostly created responsive websites with the open source CMS program `WordPress`, as well as knowing how to efficiently manage project and work with clients and colleagues successfully.
 
-When the time I worked in startup, my front-end build process involves the popular frameworks like `Bootstrap-v4`, `Nodejs`, the javascript library `React` for building user interfaces, and the use of tools such as `Sass`, `Grunt` and `NPM` to speed up development. And know my way around version management and working in `SCRUM` teams.
+When the time I worked in startup, my front-end build process involves the popular frameworks like `React` and `React Native` along with `Redux` for building javascript apps, and the use of tools such as `Sass`, `Grunt` and `NPM` to speed up development. Also know my way around version management and working in `SCRUM` teams.
 
 ## Coding style
 
@@ -48,6 +48,8 @@ Comment from design team supervisor in internship // 2009:
 
 ## Contact Me
 ```
-Tel : +852 9823 4304
+Tel : +852 9823 ****
 Email : meiyanlau98234304@gmail.com
 ```
+
+<center>I am not open to opportunity right now until the end of 2018. But I would like to be up-to-date with the market. Send me Email if anything to share! 😄</center>
