@@ -44,3 +44,5 @@ Soon (August 2018)
 ![CPB](/assets/images/blog/cpb-result.png)
 
 ![CPB](/assets/images/blog/cpb.gif)
+
+![CPB](/assets/images/blog/cpb-member.gif)
