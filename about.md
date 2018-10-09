@@ -48,8 +48,8 @@ Comment from design team supervisor in internship // 2009:
 
 ## Contact Me
 ```
-Tel : +852 9823 ****
+Tel : +852 9823 4304
 Email : meiyanlau98234304@gmail.com
 ```
 
-<center>I am not open to opportunity right now until the end of 2018. But I would like to be up-to-date with the market. Send me Email if anything to share! 😄</center>
+<!-- <center>I am not open to opportunity right now until the end of 2018. But I would like to be up-to-date with the market. Send me Email if anything to share! 😄</center> -->
