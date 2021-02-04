@@ -1,0 +1,51 @@
+I"_<p>The beauty consultation App is an IOS application for engaging in-store experience. When a customer enter the store, beauty artist(BA) will use this App to perform a skin consultant with customer and suggest products to her/ him.</p>
+
+<p>The App includes</p>
+
+<ul>
+  <li>APIs integration to
+    <ul>
+      <li>search member</li>
+      <li>get product information</li>
+      <li>create new member</li>
+      <li>send product recommandation and skin consult record to brand’s CRM system</li>
+    </ul>
+  </li>
+  <li>form to register member
+    <ul>
+      <li>e-Signature</li>
+    </ul>
+  </li>
+  <li>product catalogue
+    <ul>
+      <li>product sorting</li>
+      <li>video playing</li>
+    </ul>
+  </li>
+  <li>push notification for database update</li>
+  <li>language changing</li>
+</ul>
+
+<p><img src="/assets/images/blog/cpb-home.png" alt="CPB App" /></p>
+
+<h2 id="released">Released</h2>
+<p>August 2018</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>React Native</li>
+  <li>Redux</li>
+  <li>Integrating APIs</li>
+  <li>PouchDB</li>
+</ul>
+
+<p><img src="/assets/images/blog/cpb-pdp.png" alt="CPB" /></p>
+
+<p><img src="/assets/images/blog/cpb-plp.png" alt="CPB" /></p>
+
+<p><img src="/assets/images/blog/cpb-result.png" alt="CPB" /></p>
+
+<p><img src="/assets/images/blog/cpb.gif" alt="CPB" /></p>
+
+<p><img src="/assets/images/blog/cpb-member.gif" alt="CPB" /></p>
+:ET

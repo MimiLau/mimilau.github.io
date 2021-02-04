@@ -1,0 +1,26 @@
+I"<p>This is an interactive “customize your own jewellry” tool for Tessel. In this web app, you can design your own pattern in the jewellery with different color, size, metal, finger size and other options.</p>
+
+<p>We build it with <code class="language-plaintext highlighter-rouge">Reactjs</code> for user interface and <code class="language-plaintext highlighter-rouge">HTML5 Canvas</code> for user to customize the ‘ring’.</p>
+
+<p><img src="/assets/images/blog/tessel-home.png" alt="Tessel home" /></p>
+
+<p><a href="http://staging.web2-hk.redantdev.com/tessel-tool">Visit Demo Site</a></p>
+
+<h2 id="released">Released</h2>
+<p>Dec 2017</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>Reactjs</li>
+  <li>CSS Modules (Sass)</li>
+  <li>Webpack</li>
+  <li>Javascript (ES6)</li>
+  <li>Grunt</li>
+</ul>
+
+<p><img src="/assets/images/blog/tessel-page.png" alt="Tessel page" /></p>
+
+<p><img src="/assets/images/blog/tessel-page2.png" alt="Tessel page" /></p>
+
+<p><img src="/assets/images/blog/tessel-page3.png" alt="Tessel page" /></p>
+:ET

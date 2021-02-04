@@ -1,0 +1,25 @@
+I"^<p>This is a mini site that happen on weChat, it gives you the best experience when you browse the website using mobile device.</p>
+
+<p>I worked with designer to come up with the slow and subtle animation, it gives the brand more luxury feel.</p>
+
+<p><img src="/assets/images/blog/balmain-home.png" alt="Balmain homepage" /></p>
+
+<p><a href="http://balmain.redantchina.cn/balmain-minisite/">Visit Live Site</a></p>
+
+<h2 id="released">Released</h2>
+<p>Jan 2018</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>JS frameworks : ReactJS</li>
+  <li>CSS frameworks : BootStrap-v4</li>
+  <li>Lint: ESLint</li>
+  <li>Editor: Atom</li>
+</ul>
+
+<p><img src="/assets/images/blog/balmain-page1.png" alt="Balmain" /></p>
+
+<p><img src="/assets/images/blog/balmain-page2.png" alt="Balmain" /></p>
+
+<p><img src="/assets/images/blog/balmain-page3.png" alt="Balmain" /></p>
+:ET

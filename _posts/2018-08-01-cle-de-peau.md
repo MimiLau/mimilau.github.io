@@ -29,7 +29,7 @@ The App includes
 ![CPB App](/assets/images/blog/cpb-home.png)
 
 ## Released
-Soon (August 2018)
+August 2018
 
 ## Technologies
 - React Native

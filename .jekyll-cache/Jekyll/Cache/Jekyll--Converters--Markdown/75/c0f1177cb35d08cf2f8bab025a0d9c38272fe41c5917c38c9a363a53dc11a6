@@ -1,0 +1,35 @@
+I"‰<p>Globber is a big scope e-commerce project that we worked on for almost half year.</p>
+
+<p>This e-commerce website mainly include</p>
+
+<ul>
+  <li>product listing page</li>
+  <li>product family page</li>
+  <li>product detail page</li>
+  <li>questionaire</li>
+  <li>product comparison</li>
+</ul>
+
+<p><img src="/assets/images/blog/globber-home.png" alt="Globber homepage" /></p>
+
+<p><a href="https://www.globber.com">Visit Live Site</a></p>
+
+<h2 id="released">Released</h2>
+<p>March 2018</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>Javascript, JQuery</li>
+  <li>Grunt</li>
+  <li>Webpack</li>
+  <li>CSS Modules (Scss)</li>
+  <li>Prestashop, PHP</li>
+  <li>Smarty</li>
+</ul>
+
+<p><img src="/assets/images/blog/globber-PLP.png" alt="Globber" /></p>
+
+<p><img src="/assets/images/blog/globber-full.png" alt="Globber" /></p>
+
+<p><img src="/assets/images/blog/globber-PDP-gif.gif" alt="Globber" /></p>
+:ET

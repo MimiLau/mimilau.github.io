@@ -1,0 +1,32 @@
+I"<p>Aftership is a shipment tracking application and API for eCommerce retailers and buyers.</p>
+
+<p>This site is written in <code class="language-plaintext highlighter-rouge">Express</code> as the <code class="language-plaintext highlighter-rouge">Node.js</code> web framework. We use <code class="language-plaintext highlighter-rouge">Jade</code> (Now it’s renamed to <code class="language-plaintext highlighter-rouge">Pug</code>) as the template engine. Compiling Jade files in grunt tasks.</p>
+
+<p>We grabbed all the designs in <code class="language-plaintext highlighter-rouge">Sketch</code> from UX/UI designers. Styles are written in Bootstrap-v4 in <code class="language-plaintext highlighter-rouge">BEM</code> approach.</p>
+
+<p>The code is well organized by HTML5 semantic elements, for more SEO-friendly site structure.</p>
+
+<p>This is the first project when I entered this company where I developed my front-end skills. The most challenging part is to pick up new technologies that I have not used before. But I kinda enjoy those because the tools actually help writing static site more faster and cleaner, lead to a more quality product we have. I would say finishing up this project is a huge sense of success.</p>
+
+<p><img src="/assets/images/blog/www-revamp.png" alt="www revamp" /></p>
+
+<p><a href="http://www.aftership.com">Visit Live Site</a></p>
+
+<h2 id="released">Released</h2>
+<p>April 2016</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>Jade</li>
+  <li>Expressjs</li>
+  <li>CSS Modules (Bootstrap-v4)</li>
+  <li>Full Responsive</li>
+  <li>JQuery</li>
+</ul>
+
+<p><img src="/assets/images/blog/www-courier-page.png" alt="www revamp" /></p>
+
+<p><img src="/assets/images/blog/www-feature-page.png" alt="www revamp" /></p>
+
+<p><img src="/assets/images/blog/www-mobile.png" alt="www revamp" /></p>
+:ET

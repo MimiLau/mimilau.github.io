@@ -49,8 +49,8 @@ home: true
 						{% assign source = site.posts %}
 					{% endif %}
 
-					{% for post in source limit:3 %}
-						{% if post.category == "work"%}
+					{% for post in site.posts limit:3 %}
+						{% if post.category == "work" %}
 						<li>
 								<a href="{{ post.url | prepend: site.baseurl }}" class="post-list-link">
 										<div class="post-list-info">

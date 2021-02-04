@@ -1,0 +1,29 @@
+I"><p>This is a Front-end project which use <code class="language-plaintext highlighter-rouge">Pug</code> template to generate HTML files. <code class="language-plaintext highlighter-rouge">Grunt</code> tasks are set to minified js and css files.</p>
+
+<p>Project is sent to a outsource company to perform the Wordpress backend and it works perfect.</p>
+
+<p>Effects are made by jquery and some javascript &amp; css libraries like <code class="language-plaintext highlighter-rouge">animate.css</code>, <code class="language-plaintext highlighter-rouge">skrollr</code>, <code class="language-plaintext highlighter-rouge">snap</code> and etc. <code class="language-plaintext highlighter-rouge">Preloadjs</code> is introduced to manage and co-ordinate the loading of assets and data.</p>
+
+<p>We are going to submit this site to <a href="http://www.awwwards.com/">AWWWARDS</a> and hope to see you there soon!</p>
+
+<p><img src="/assets/images/blog/australian-diamonds-home.png" alt="Australian Diamonds home" /></p>
+
+<p><a href="http://australiandiamondstory.com">Visit Live Site</a></p>
+
+<h2 id="released">Released</h2>
+<p>Feb 2017</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>Jade (Pug)</li>
+  <li>Javascript, JQuery</li>
+  <li>Grunt</li>
+  <li>CSS Modules (Scss)</li>
+</ul>
+
+<p><img src="/assets/images/blog/australian-diamonds-page.png" alt="australian diamonds page" /></p>
+
+<p><img src="/assets/images/blog/australian-diamonds-source.gif" alt="australian diamonds source page" /></p>
+
+<p><img src="/assets/images/blog/australian-diamonds-mobile.png" alt="saustralian diamonds mobile" /></p>
+:ET

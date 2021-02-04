@@ -1,0 +1,35 @@
+I"˜<p>The web application is fully featured using latest technologies. To achieve interactive UIs, we use <code class="language-plaintext highlighter-rouge">React</code> &amp; <code class="language-plaintext highlighter-rouge">Redux</code> which will efficiently update and render just the right components when users data changes.</p>
+
+<p>By using <code class="language-plaintext highlighter-rouge">Webpack</code>, it replaced <code class="language-plaintext highlighter-rouge">grunt</code> because it can build and bundle CSS, preprocessed CSS, compile-to-JS languages and images, among other things on the fly.</p>
+
+<p>I worked on this inspiring projects as a Front-end Developer in teams with UX/UI Designers &amp; Backend Developers. The backend provided us with the restful APIs to queriers.</p>
+
+<p>This large project runs Agile SCRUM. Every one or two week we have a sprint planning with roadmap outlined by PM, we estimate the story point of tasks and assign them to team members. This management methodology let us work efficiently between teams, and deliver features more focused.</p>
+
+<p><img src="/assets/images/blog/secure-dashboard-page.png" alt="secure revamp" /></p>
+
+<p><a href="https://blog.aftership.com/introducing-new-aftership-design/">An article about Announcing New Design &amp; Branded Tracking Page</a></p>
+
+<p><a href="http://secure.aftership.com">Visit Live Site</a></p>
+
+<p>Feel free to signup and try the app, itâ€™s free :)</p>
+
+<h2 id="released">Released</h2>
+<p>Sept 2016</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>Reactjs</li>
+  <li>Redux</li>
+  <li>Redux-DevTools</li>
+  <li>CSS Modules (Sass)</li>
+  <li>Webpack</li>
+  <li>Javascript (ES6)</li>
+</ul>
+
+<p><img src="/assets/images/blog/secure-tracking.jpg" alt="secure revamp" /></p>
+
+<p><img src="/assets/images/blog/secure-settings.jpg" alt="secure revamp" /></p>
+
+<p><img src="/assets/images/blog/secure-help-gif.gif" alt="secure revamp" /></p>
+:ET
