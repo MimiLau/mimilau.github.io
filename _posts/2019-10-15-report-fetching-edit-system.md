@@ -4,7 +4,7 @@ title: "Report Fetching Edit System"
 date: 2019-10-15
 backgrounds:
     - /assets/images/backgrounds/desk.jpeg
-thumb: /assets/images/thumb/cpb.png
+thumb: /assets/images/thumb/ctm-data-asia.PNG
 category: work
 tags: web portal react hotel booking
 ---

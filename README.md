@@ -16,6 +16,13 @@ cd to the working folder, then
 jekyll serve
 ```
 
+## push
+
+```
+git add .
+git commit -m "commit msg here"
+git push
+```
 ### Usage
 
 For all usage and documentation please see: <http://jekyllbootstrap.com>
