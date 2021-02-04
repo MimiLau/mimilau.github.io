@@ -18,7 +18,7 @@ The web portal includes
   - search booking
   - create new booking
   - search and download report
-- components include
+- Components include
   - Date picker
   - live search select
 

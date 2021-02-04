@@ -1,0 +1,49 @@
+I"°<p>An internal web system for agency and sales teams to manage bookings.</p>
+
+<p>The web portal includes</p>
+
+<ul>
+  <li>APIs integration to
+    <ul>
+      <li>fetch userâ€™s info</li>
+      <li>search booking</li>
+      <li>create new booking</li>
+      <li>search and download report</li>
+    </ul>
+  </li>
+  <li>Components include
+    <ul>
+      <li>Date picker</li>
+      <li>live search select</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/images/blog/hotel-fulfillment1.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment2.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment3.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment4.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment5.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment6.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment7.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment8.png" alt="Hotel Fulfillment System" /></p>
+
+<p><img src="/assets/images/blog/hotel-fulfillment9.png" alt="Hotel Fulfillment System" /></p>
+
+<h2 id="released">Released</h2>
+<p>July 2019</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>Integrating APIs</li>
+</ul>
+:ET
