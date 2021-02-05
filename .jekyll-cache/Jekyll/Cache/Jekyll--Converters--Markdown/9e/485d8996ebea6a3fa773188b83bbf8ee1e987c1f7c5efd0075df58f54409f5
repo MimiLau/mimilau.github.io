@@ -1,0 +1,33 @@
+I"€<p>An internal web system to fetch data for the Asia area.</p>
+
+<p>The Web App includes</p>
+
+<ul>
+  <li>APIs integration to
+    <ul>
+      <li>search report</li>
+      <li>edit data</li>
+      <li>add data</li>
+    </ul>
+  </li>
+  <li>Components include
+    <ul>
+      <li>date picker</li>
+      <li>live search select</li>
+      <li>multi-select</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/images/blog/CTM-ASIA-Data.gif" alt="Report Fetching Edit System" /></p>
+
+<h2 id="released">Released</h2>
+<p>Oct 2019</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>React Native</li>
+  <li>Redux</li>
+  <li>Integrating APIs</li>
+</ul>
+:ET

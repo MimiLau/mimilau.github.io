@@ -18,10 +18,17 @@ The Web App includes
   - edit data
   - add data
 - Components include
-  - Date picker
+  - date picker
   - live search select
+  - multi-select
 
 ![Report Fetching Edit System](/assets/images/blog/CTM-ASIA-Data.gif)
+
+![Report Fetching Edit System](/assets/images/blog/CTM1.png)
+
+![Report Fetching Edit System](/assets/images/blog/CTM2.png)
+
+![Report Fetching Edit System](/assets/images/blog/CTM3.PNG)
 
 ## Released
 Oct 2019
