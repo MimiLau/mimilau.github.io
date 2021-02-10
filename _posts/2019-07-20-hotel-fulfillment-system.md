@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hotel Fulfillment System Web Portal"
+title: "Hotel Fulfillment System - Web Portal"
 date: 2019-07-20
 backgrounds:
     - /assets/images/backgrounds/desk.jpeg

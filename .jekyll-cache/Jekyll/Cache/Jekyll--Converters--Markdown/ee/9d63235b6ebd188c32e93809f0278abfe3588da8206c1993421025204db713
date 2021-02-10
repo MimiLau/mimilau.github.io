@@ -1,0 +1,46 @@
+I"I<p>A system that let admin to upload or edit products which will appear on the booking system. Admin can add item, SKU, edit price for each SKU. Allowing bulk edit or single edit.</p>
+
+<p>The Web system includes</p>
+
+<ul>
+  <li>APIs integration to
+    <ul>
+      <li>search/fetch products</li>
+      <li>create products</li>
+      <li>upload images</li>
+      <li>edit products</li>
+      <li>view &amp; send message</li>
+    </ul>
+  </li>
+  <li>Components include
+    <ul>
+      <li>date picker</li>
+      <li>calendar view</li>
+      <li>images viewer</li>
+      <li>whatsapp-like conversation</li>
+    </ul>
+  </li>
+</ul>
+
+<p><img src="/assets/images/blog/product-sys-back1.png" alt="Product Booking System" /></p>
+
+<p><img src="/assets/images/blog/product-sys-back2.png" alt="Product Booking System" /></p>
+
+<p><img src="/assets/images/blog/product-sys-back3.png" alt="Product Booking System" /></p>
+
+<p><img src="/assets/images/blog/product-sys-back4.PNG" alt="Product Booking System" /></p>
+
+<p><img src="/assets/images/blog/product-sys-back5.PNG" alt="Product Booking System" /></p>
+
+<p><img src="/assets/images/blog/product-sys-back6.PNG" alt="Product Booking System" /></p>
+
+<h2 id="released">Released</h2>
+<p>Oct 2019</p>
+
+<h2 id="technologies">Technologies</h2>
+<ul>
+  <li>React Native</li>
+  <li>Redux</li>
+  <li>Integrating APIs</li>
+</ul>
+:ET
