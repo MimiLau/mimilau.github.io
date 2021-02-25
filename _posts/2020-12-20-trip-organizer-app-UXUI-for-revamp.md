@@ -19,11 +19,11 @@ An app allow user to organize all trip details and travel plans into one streaml
 
 ### UX/UI
 
-![Trip organizer App](/assets/images/blog/App1.png)
+![Trip organizer App](/assets/images/blog/App1.PNG)
 
-![Trip organizer App](/assets/images/blog/App2.png)
+![Trip organizer App](/assets/images/blog/App2.PNG)
 
-![Trip organizer App](/assets/images/blog/App3.png)
+![Trip organizer App](/assets/images/blog/App3.PNG)
 
 ![Trip organizer App](/assets/images/blog/App4.PNG)
 
