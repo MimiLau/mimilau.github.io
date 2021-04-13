@@ -33,11 +33,11 @@ The Web system includes
 
 ![Product Booking System](/assets/images/blog/product-sys-back3.png)
 
-![Product Booking System](/assets/images/blog/product-sys-back4.PNG)
+![Product Booking System](/assets/images/blog/product-sys-back4.png)
 
-![Product Booking System](/assets/images/blog/product-sys-back5.PNG)
+![Product Booking System](/assets/images/blog/product-sys-back5.png)
 
-![Product Booking System](/assets/images/blog/product-sys-back6.PNG)
+![Product Booking System](/assets/images/blog/product-sys-back6.png)
 
 ## Released
 Jan 2020
