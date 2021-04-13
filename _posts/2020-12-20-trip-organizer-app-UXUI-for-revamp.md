@@ -9,7 +9,9 @@ category: work
 tags: app ux ui revamp
 ---
 
-An app allow user to organize all trip details and travel plans into one streamlined itinerary. User can manage flight itineraries, hotel bookings, and rental car reservations in this app. Great for business travelers and frequent fliers.
+I do the design of revamping the APP be using online tool to wirefram the mockup.
+
+This is an app to allow user to organize all trip details and travel plans into one streamlined itinerary. User can manage flight itineraries, hotel bookings, and rental car reservations in this app. Great for business travelers and frequent fliers.
 
 ### Style Guide
 
