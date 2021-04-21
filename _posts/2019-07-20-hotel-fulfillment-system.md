@@ -28,11 +28,11 @@ The web portal includes
 
 ![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment3.png)
 
-![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment4.png)
+![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment4.PNG)
 
 ![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment5.png)
 
-![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment6.png)
+![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment6.PNG)
 
 ![Hotel Fulfillment System](/assets/images/blog/hotel-fulfillment7.png)
 
