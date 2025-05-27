@@ -25,7 +25,7 @@ git push
 ```
 ### Usage
 
-For all usage and documentation please see: <http://jekyllbootstrap.com>
+For all usage and documentation please see: <https://jekyllrb.com/docs/>
 
 Theme support: [Travelogue](https://github.com/SalGnt/Travelogue)
 
