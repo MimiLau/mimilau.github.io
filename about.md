@@ -3,28 +3,22 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hi, I'm Mimi Lau — a full stack software engineer based in London, UK.
 
-Hi! I'm Mimi from Hong Kong.
+My journey began in 2011 as a web designer, crafting HTML and CSS websites. In 2016, I transitioned into <b>front-end</b> development, gaining valuable experience at startups like [Aftership](https://www.aftership.com) and digital agencies such as [Red Ant Asia](https://asia.redant.com). These roles strengthened my technical skills, deepened my understanding of user-centric design, and enhanced my ability to communicate effectively in fast-paced teams.
 
-Everything started from 2011, I was a web designer making HTML/CSS websites. After that I had the best year in my life for Working Holiday in Australia.
-
-In 2013 I joined to [Adams](http://www.adamshk.com) the marketing agency working as between web designer and programmer, until then I freelance for about 8 months on my own. Building up lots of practical experience of successful designed websites layout, usability and appearance.
-
-In 2016 I started to shift my skills to front-end development. My experience in the startup [Aftership](https://www.aftership.com) and [Red Ant](https://asia.redant.com) the digital agency has given me extensive technical skills and web designing knowledge, along with excellent communication skills.
+In 2021, I made a big leap — relocating to the UK and joining [Red Ant UK](https://www.redant.com/) as a <b>full stack</b> software developer. It was a major change, with a new culture, language, and tech stack to adapt to, but it’s been an incredibly rewarding experience that I’m truly grateful for.
 
 ## Skills
 
-I know most of the languages for web designing, eg. `HTML5`, `CSS3`, `Javascript`, `Bootstrap`, `SQL`, `PHP`, etc. In my past experience as a freelancer and working for agencies, I mostly created responsive websites with the open source CMS program `WordPress`, as well as knowing how to efficiently manage project and work with clients and colleagues successfully.
-
-When the time I worked in startup, my front-end build process involves the popular frameworks like `React` and `React Native` along with `Redux` for building javascript apps, and the use of tools such as `Sass`, `Grunt` and `NPM` to speed up development. Also know my way around version management and working in `SCRUM` teams.
-
-## Coding style
-
-I love to write reusable, clean and maintainable code.
-
-I adapted to `ESLint` to check for errors on javascript. The rules in use are shamelessly taken from Airbnb's Javascript Style guide.
-
-`SCSS` will be the first choice of writing css because I'm in love with the usable assets like variable and mixins. And through a simple pre-processor to generate css for different vendor versions.
+🛠️ Frontend Development: React, Redux, TypeScript, JavaScript, HTML5, CSS3, Sass
+🛠️ Backend Development: Node.js
+🛠️ Databases: SQL, PostgreSQL
+📱 Mobile Development: React Native
+🧩 CMS & E-commerce: WordPress, PrestaShop
+🔁 Version Control & Workflow: Git, GitHub, Agile/SCRUM
+🗣️ Languages Spoken: English, Cantonese, Mandarin
+🤖 AI-Assisted Coding Tools: Cursor
 
 ## What they say about me
 
@@ -48,8 +42,6 @@ Comment from design team supervisor in internship // 2009:
 
 ## Contact Me
 ```
-Tel : +852 9823 4304
 Email : meiyanlau98234304@gmail.com
+Linkedin: [https://www.linkedin.com/in/mimilaumeiyan/](https://www.linkedin.com/in/mimilaumeiyan/)
 ```
-
-<!-- <center>I am not open to opportunity right now until the end of 2018. But I would like to be up-to-date with the market. Send me Email if anything to share! 😄</center> -->
