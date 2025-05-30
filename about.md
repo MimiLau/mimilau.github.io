@@ -20,6 +20,10 @@ In 2021, I made a big leap — relocating to the UK and joining [Red Ant UK](htt
 🗣️ Languages Spoken: English, Cantonese, Mandarin<br/>
 🤖 AI-Assisted Coding Tools: Cursor<br/>
 
+## Hobbies
+
+Yoga, Reading, Music
+
 ## What they say about me
 
 Comment from colleagues in Red Ant // 2018:
