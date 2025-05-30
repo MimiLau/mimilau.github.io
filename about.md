@@ -11,14 +11,14 @@ In 2021, I made a big leap — relocating to the UK and joining [Red Ant UK](htt
 
 ## Skills
 
-🛠️ Frontend Development: React, Redux, TypeScript, JavaScript, HTML5, CSS3, Sass
-🛠️ Backend Development: Node.js
-🛠️ Databases: SQL, PostgreSQL
-📱 Mobile Development: React Native
-🧩 CMS & E-commerce: WordPress, PrestaShop
-🔁 Version Control & Workflow: Git, GitHub, Agile/SCRUM
-🗣️ Languages Spoken: English, Cantonese, Mandarin
-🤖 AI-Assisted Coding Tools: Cursor
+🛠️ Frontend Development: React, Redux, TypeScript, JavaScript, HTML5, CSS3, Sass<br/>
+🛠️ Backend Development: Node.js<br/>
+🛠️ Databases: SQL, PostgreSQL<br/>
+📱 Mobile Development: React Native<br/>
+🧩 CMS & E-commerce: WordPress, PrestaShop<br/>
+🔁 Version Control & Workflow: Git, GitHub, Agile/SCRUM<br/>
+🗣️ Languages Spoken: English, Cantonese, Mandarin<br/>
+🤖 AI-Assisted Coding Tools: Cursor<br/>
 
 ## What they say about me
 
