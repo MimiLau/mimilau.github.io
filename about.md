@@ -43,5 +43,5 @@ Comment from design team supervisor in internship // 2009:
 ## Contact Me
 ```
 Email : meiyanlau98234304@gmail.com
-Linkedin: [https://www.linkedin.com/in/mimilaumeiyan/](https://www.linkedin.com/in/mimilaumeiyan/)
+Linkedin: https://www.linkedin.com/in/mimilaumeiyan
 ```
